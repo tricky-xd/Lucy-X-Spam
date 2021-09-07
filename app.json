@@ -1,7 +1,7 @@
 {
-  "name": "LUCY X SPAM",
-  "description": "Telegram Spam Userbot of ILLUMINATI.",
-  "logo": "https://telegra.ph/file/256839a8776eb7790b829.jpg",
+  "name": "LUCY X SPAM USERBOT",
+  "description": "A Powerful Telegram Spam Userbot.",
+  "logo": "https://telegra.ph/file/bf6f67d9f1f1106ca4dce.jpg",
   "keywords": [
     "spambot",
     "telegram",
@@ -14,7 +14,7 @@
         "required": false
       },
       "API_ID": {
-        "description": "Telegram API_ID (https://my.telegram.org/)",
+        "description": "Telethon String Session",
         "value": "",
         "required": true
       },
@@ -64,7 +64,7 @@
         "required": false
       },
       "API_HASH": {
-        "description": "telegram API HASH (https://my.telegram.org/)",
+        "description": "Api Hash",
         "value": "",
         "required": true
       },
