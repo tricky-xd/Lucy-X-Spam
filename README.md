@@ -1,1 +1,0 @@
-# Lucy-X-Spam
